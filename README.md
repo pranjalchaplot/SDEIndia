@@ -11,3 +11,14 @@
 8. [Arcesium](https://careers.arcesium.com/search/?createNewAlert=false&q=Software&optionsFacetsDD_country=&optionsFacetsDD_dept=&locationsearch=India)
 9. [Udaan](https://udaan.darwinbox.in/ms/candidate/careers) OR Mail Them (freshers): campus@udaan.com
 10. [PayPal](https://paypal.eightfold.ai/careers?query=&location=&Country=India&Job%20Category=Software%20Development)
+11. [Flipkart](https://www.flipkartcareers.com/#!/joblist)
+12. [PhonePe](https://www.phonepe.com/careers/jobs-by-department/engineering/)
+13. [Barclays](https://search.jobs.barclays/search-jobs/Software/India/22545/1/2/1269750/22/79/50/2)
+14. []()
+15. []()
+16. []()
+17. []()
+18. []()
+19. []()
+20. []()
+
